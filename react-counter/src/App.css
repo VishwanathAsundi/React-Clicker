@@ -1,0 +1,15 @@
+.my-box {
+  text-align: center;
+  margin: 30px;
+}
+
+.my-box h4 {
+  padding: 20px;
+}
+
+.buttons button {
+  width: auto;
+  height: 50px;
+  font-size: 22px;
+  padding: 0px 20px;
+}
